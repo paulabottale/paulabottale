@@ -14,7 +14,7 @@
 - 💻 Apasionado por: Desarrollo web, IA, análisis de datos y aprendizaje continuo  
 - 🔐 Actualmente aprendiendo: Python y Java
 - 🤝 Abierto a: Colaboraciones, proyectos desafiantes y nuevas oportunidades  
-- ⚡ Dato curioso: Me encanta resolver problemas complejos con código elegante  
+- ⚡ Dato curioso: Me encanta resolver problemas complejos menteniendo la escalabilidad y prolijidad del codigo como prioridad.
 
 ---
 
@@ -32,8 +32,6 @@
 🗃️ Gestión de Bases de Datos: MONGODBCOMPASS.
 
 🎨 Diseño & Contenido: CANVA, WORDPRESS.
-
-- ⚡ Dato curioso: Me encanta resolver problemas complejos con código elegante  
 
 ---
 ### 🤝 ¡Colaboremos Juntos!
