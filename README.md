@@ -1,6 +1,5 @@
 ## Hola!👋 Soy Paula Juana Bottale
 
-<!--
 ## 🚀 Desarrolladora Web Full Stack 
 
 ### 🚀 Sobre mí  
