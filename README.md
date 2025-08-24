@@ -18,10 +18,28 @@
 
 ---
 
-## 📬 Conecta conmigo  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulabottale.dev@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/paula-bottale)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https:https://wa.me/qr/ZALAZJLR2O2LP1)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https:github.com/paulabottale)  
+### 💻 Stack Tecnologico
+💻 Lenguajes de programacion: C#, JAVA, PYTHON, JAVASCRIPT, TYPESCRIPT.
+
+🎨 Frontend Development: HTML, CSS3, TAILWIND, REACT, VUE.JS, BOOTSTRAP, VITE.
+
+⚙️ Backend Development: NODE.JS, EXPRESS.JS, .NET, REST API.
+
+🗄️ Bases de datos: POSTGRESQL, MONGODB.
+
+🔧 Herramientas de Desarrollo: VS CODE, VISUAL STUDIO, POSTMAN, GITHUB, VERCEL.
+
+🗃️ Gestión de Bases de Datos: MONGODBCOMPASS.
+
+🎨 Diseño & Contenido: CANVA, WORDPRESS.
+
+- ⚡ Dato curioso: Me encanta resolver problemas complejos con código elegante  
 
 ---
+### 🤝 ¡Colaboremos Juntos!
+¿Tienes una idea innovadora? ¿Necesitas ayuda con un proyecto?
+Siempre estoy emocionado por colaborar en proyectos desafiantes y aprender nuevas tecnologías.
+
+---
+
+⭐️ Si mi trabajo te resulta útil, ¡no olvides darle una estrella a mis repositorios!
