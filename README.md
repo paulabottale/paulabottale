@@ -12,14 +12,14 @@
 
 ### 💡 Intereses  
 - 💻 Apasionado por: Desarrollo web, IA, análisis de datos y aprendizaje continuo  
-- 🔐 Actualmente aprendiendo: Python y Java
+- 🔐 Actualmente aprendiendo: librerias de IA con JavaScript y otras tecnologias
 - 🤝 Abierto a: Colaboraciones, proyectos desafiantes y nuevas oportunidades  
 - ⚡ Dato curioso: Me encanta resolver problemas complejos menteniendo la escalabilidad y prolijidad del codigo como prioridad.
 
 ---
 
 ### 💻 Stack Tecnologico
-💻 Lenguajes de programacion: C#, JAVA, PYTHON, JAVASCRIPT, TYPESCRIPT.
+💻 Lenguajes de programacion: JAVASCRIPT, TYPESCRIPT.
 
 🎨 Frontend Development: HTML, CSS3, TAILWIND, REACT, VUE.JS, BOOTSTRAP, VITE.
 
