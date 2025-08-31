@@ -8,7 +8,8 @@
 - 🎓 **Graduada:** Diplomatura en Desarrollo Web Full Stack en Universidad Tecnologica Nacional (UTN)
 
 ### 📜 Certificaciones  
-- 🤖 **Curso de Backend Developer** - 2025
+- 🤖 **Diplomatura en Programacion Web Full Stack - Universidad Tecnologica Nacional (UTN)** - Marzo 2025
+- 🤖 ** Curso de Backend Developer - Universidad Tecnologica Nacional (UTN)** - Julio 2025
 
 ### 💡 Intereses  
 - 💻 Apasionado por: Desarrollo web, IA, análisis de datos y aprendizaje continuo  
