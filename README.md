@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image 19 feb 2026, 17_40_29" src="https://github.com/user-attachments/assets/80e4882e-634e-47f0-8d3b-e8abd55ce8fc" />
+<img width="1430" height="522" alt="banner developer copia" src="https://github.com/user-attachments/assets/a92bfe68-941a-4424-b756-d976bf3b32c5" />
 
 ## Hola!👋 Soy Paula Juana Bottale
 
