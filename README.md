@@ -1,46 +1,63 @@
-<img width="1430" height="522" alt="banner developer copia" src="https://github.com/user-attachments/assets/a92bfe68-941a-4424-b756-d976bf3b32c5" />
+<img width="1536" height="402" alt="ChatGPT Image 24 mar 2026, 05_06_27 p m" src="https://github.com/user-attachments/assets/a0059257-6513-4de8-be8d-f8408f5c5bb5" />
 
-## Hola!👋 Soy Paula Juana Bottale
+# Hi there 👋 I'm Paula Bottale
 
-## 🚀 Desarrolladora Web Full Stack 
+## 💻 Full Stack Developer
 
-### 🚀 Sobre mí  
-- 🎂 **Edad:** 25 años  
-- 📍 **Ubicación:** Buenos Aires, Argentina
-- 🎓 **Graduada:** Diplomatura en Desarrollo Web Full Stack en Universidad Tecnologica Nacional (UTN)
-
-### 📜 Certificaciones  
-- 🤖 **Diplomatura en Programacion Web Full Stack - Universidad Tecnologica Nacional (UTN)** - Marzo 2025
-- 🤖 ** Curso de Backend Developer - Universidad Tecnologica Nacional (UTN)** - Julio 2025
-
-### 💡 Intereses  
-- 💻 Apasionado por: Desarrollo web, IA, análisis de datos y aprendizaje continuo  
-- 🔐 Actualmente aprendiendo: librerias de IA con JavaScript y otras tecnologias
-- 🤝 Abierto a: Colaboraciones, proyectos desafiantes y nuevas oportunidades  
-- ⚡ Dato curioso: Me encanta resolver problemas complejos menteniendo la escalabilidad y prolijidad del codigo como prioridad.
+I build scalable web applications using **React, Node.js, and TypeScript**, with a strong focus on backend development, API design, and clean architecture.
 
 ---
 
-### 💻 Stack Tecnologico
-💻 Lenguajes de programacion: JAVASCRIPT, TYPESCRIPT.
+## 🚀 About Me
 
-🎨 Frontend Development: HTML, CSS3, TAILWIND, REACT, VUE.JS, BOOTSTRAP, VITE.
-
-⚙️ Backend Development: NODE.JS, EXPRESS.JS, .NET, REST API.
-
-🗄️ Bases de datos: POSTGRESQL, MONGODB.
-
-🔧 Herramientas de Desarrollo: VS CODE, VISUAL STUDIO, POSTMAN, GITHUB, VERCEL.
-
-🗃️ Gestión de Bases de Datos: MONGODBCOMPASS.
-
-🎨 Diseño & Contenido: CANVA, WORDPRESS.
-
----
-### 🤝 ¡Colaboremos Juntos!
-¿Tienes una idea innovadora? ¿Necesitas ayuda con un proyecto?
-Siempre estoy emocionado por colaborar en proyectos desafiantes y aprender nuevas tecnologías.
+- 🔧 Specialized in **REST API development** and backend logic  
+- 🔐 Experience implementing **authentication with JWT**  
+- 🗄️ Working with **MongoDB and MySQL**  
+- 📈 Focused on building **maintainable and scalable applications**  
+- 🌍 Open to **remote opportunities**
 
 ---
 
-⭐️ Si mi trabajo te resulta útil, ¡no olvides darle una estrella a mis repositorios!
+## 🛠️ Tech Stack
+
+**Frontend**  
+React · TypeScript · JavaScript · HTML · CSS  
+
+**Backend**  
+Node.js · Express.js · REST APIs · JWT  
+
+**Databases**  
+MongoDB · MySQL  
+
+**Tools**  
+Git · GitHub · Postman · Vercel  
+
+---
+
+## 📌 Featured Project
+
+### 🛒 Full Stack E-Commerce Platform (User & Admin)
+
+- Built a scalable application using **TypeScript, React, and Node.js**  
+- Developed **REST APIs** with role-based access (Admin/User)  
+- Implemented authentication and security with **JWT**  
+- Managed database operations with **MongoDB**  
+- Deployed using **Vercel**
+
+🔗 Live Demo:  
+https://e-commerce-para-usuarios-y-administ.vercel.app/
+
+🔗 Repository:  
+https://github.com/paulabottale/E-COMMERCE-PARA-USUARIOS-Y-ADMINISTRADORES  
+
+---
+
+## 📫 Contact
+
+- 📍 Buenos Aires, Argentina  
+- 📧 paulabottale.dev@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/paula-bottale  
+
+---
+
+⭐️ *Always learning and building new projects*
