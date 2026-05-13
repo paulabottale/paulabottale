@@ -65,13 +65,15 @@ Claude API (Anthropic) · GitHub Copilot · AI-assisted development · Prompt en
 
 ---
 
-### 💼 InvoiceFlow — SaaS Invoice Manager *(in progress)*
-> React · Node.js · Express · MongoDB · Stripe · Tailwind CSS
+💳 Ledgr — SaaS Financial Management Platform (in progress)
+React · TypeScript · Node.js · Express · MongoDB · Stripe · Tailwind CSS
 
-- Full stack SaaS application for freelancer invoice management
-- Stripe payment integration, PDF generation, role-based dashboard
+- Full stack SaaS platform for financial management — transactions, wallet, invoicing and payments
+- Multi-tenant architecture — each organization has its own isolated data space
+- Stripe payment integration for balance top-ups and recurring subscriptions
+- Role-based dashboard with real-time financial metrics and reporting
 
-🔗 *(coming soon)*
+🔗 (coming soon)
 
 ---
 
