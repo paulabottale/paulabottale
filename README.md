@@ -66,12 +66,12 @@ Claude API (Anthropic) · GitHub Copilot · AI-assisted development · Prompt en
 ---
 
 💳 Ledgr — SaaS Financial Management Platform (in progress)
-React · TypeScript · Node.js · Express · MongoDB · Stripe · Tailwind CSS
+React · TypeScript · Node.js · Express · MongoDB · Claude AI · Stripe · Tailwind CSS
 
-- Full stack SaaS platform for financial management — transactions, wallet, invoicing and payments
-- Multi-tenant architecture — each organization has its own isolated data space
-- Stripe payment integration for balance top-ups and recurring subscriptions
-- Role-based dashboard with real-time financial metrics and reporting
+- Multi-tenant SaaS — each organization has its own isolated data space
+- AI Financial Agent powered by Claude AI — analyses transactions, generates natural language reports and answers financial questions conversationally
+- Stripe integration for balance top-ups and recurring subscriptions
+- Real-time dashboard with metrics, wallet module and professional invoicing
 
 🔗 (coming soon)
 
