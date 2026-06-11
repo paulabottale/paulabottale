@@ -1,4 +1,4 @@
-<img width="1536" height="402" alt="ChatGPT Image 24 mar 2026, 05_06_27 p m" src="https://github.com/user-attachments/assets/a0059257-6513-4de8-be8d-f8408f5c5bb5" />
+<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/26a2227f-c1ee-4435-8920-3d40653f5dae" />
 
 # Hi there, I'm Paula Bottale 👋
 
