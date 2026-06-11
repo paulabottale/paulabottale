@@ -3,7 +3,7 @@
 # Hi there, I'm Paula Bottale 👋
  
 ### Full Stack Developer · Building AI-Integrated Products
-📍 Buenos Aires, Argentina · 🌎 Remote-friendly · 🇬🇧 B2 English
+📍 Buenos Aires, Argentina · 🌎 Remote-friendly · English - Professional Working Proficiency B2
  
 I build production-ready web applications with React, TypeScript, Node.js and MongoDB — focused on integrating LLMs into real user-facing features, not just my workflow.
  
@@ -60,7 +60,6 @@ Git · GitHub · Vercel · Render · Postman · Swagger/OpenAPI · Agile · CI/C
 - Fully typed across React frontend and Node.js/Express backend
 - 10+ RESTful API endpoints with role-based access control (Admin/User)
 - JWT authentication with protected routes and session management
-- MongoDB Aggregation pipeline for real-time inventory tracking
 🔗 [Live Demo](https://e-commerce-para-usuarios-y-administ.vercel.app) · [GitHub](https://github.com/paulabottale/fullstack-ecommerce-app)
  
 ---
